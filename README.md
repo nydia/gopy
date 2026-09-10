@@ -178,4 +178,4 @@ gopy/
 
 ## License
 
-[MIT](./LICENSE) — Copyright (c) 2026 lvhuaqiang.
+[MIT](./LICENSE) — Copyright (c) 2026 nydia.
